@@ -1,13 +1,12 @@
 main:
   - title: "Home"
-    url: /th/
+    url: "/"
   - title: "GROWTH System"
-    url: /th/growth-system/
-  - title: "Leadership"
-    url: /th/leadership/
-  - title: "Article"
-    url: /th/article/
+    url: "/th/growth-system/"
   - title: "Portfolio"
-    url: /th/portfolio/
+    url: "/th/portfolio/"
+  - title: "Insights"
+    url: "/th/insights/"
   - title: "About"
-    url: /th/about/
+    url: "/th/about/"
+
