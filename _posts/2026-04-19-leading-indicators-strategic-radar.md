@@ -8,6 +8,7 @@ author_profile: true
 header:
   overlay_color: "#1c1c1c"
   overlay_filter: 0.6
+  teaser: 
 excerpt: "การบริหารธุรกิจโดยมองแค่ยอดขายเปรียบเสมือนการขับรถโดยมองแต่กระจกหลัง เจาะลึกวิธีสร้าง Leading Indicators เพื่อเป็น 'เรดาร์' พยากรณ์ความสำเร็จล่วงหน้า"
 ---
 
